@@ -6,9 +6,10 @@ I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+| Languages & Tools |
+| :--- |
+| <img src="https://shields.io" height="28"/> <img src="https://shields.io" height="28"/> <img src="https://shields.io" height="28"/> |
+
 
 ### 📫 Contacts
 
