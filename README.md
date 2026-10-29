@@ -4,24 +4,74 @@
 
 I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
 
-### 🛠️ Tech Stack
+<h1 align="center">Hi, I'm Michael 👋</h1>
 
-<div id="badges">
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="C"/>
-  <img src="https://shields.io" alt="SQL"/>
-</div>
+<h3 align="center">
+  Machine Learning | Computer Vision | Robotics | Engineering
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode" />
+  Student exploring the intersection of AI, engineering and modern technologies.
 </p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+---
+
+## 🧠 About Me
+
+- 🎓 Engineering student
+- 🤖 Interested in Machine Learning and Artificial Intelligence
+- 👁️ Exploring Computer Vision
+- ⚙️ Interested in Robotics and Automation
+- 🔬 Passionate about engineering and technology
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖 Machine Learning & AI
 
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 👁️ Computer Vision
+
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 📐 Mathematics & Scientific Computing
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge)
+
+### ⚙️ Robotics
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+### 🛠️ Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,jupyter" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ### 📫 Contacts
