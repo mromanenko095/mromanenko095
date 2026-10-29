@@ -8,7 +8,7 @@ I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
 
 | Languages & Tools |
 | :--- |
-| <img src="https://shields.io" height="28"/> <img src="https://shields.io" height="28"/> <img src="https://shields.io" height="28"/> |
+| ![Python](https://shields.io) ![C](https://shields.io) ![SQL](https://shields.io) |
 
 
 ### 📫 Contacts
