@@ -6,7 +6,9 @@ I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
 
 ### 🛠️ Tech Stack
 
-![My Tech Stack](https://stackglow.vercel.app/api/icons?i=python,c,sql&theme=dark&perline=3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📫 Contacts
 
