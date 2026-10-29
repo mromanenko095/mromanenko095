@@ -4,27 +4,18 @@
 
 I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
 
-### 🛠️ Technologies
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* **Languages:** ![Python](https://shields.io) ![C](https://shields.io)
+* **AI & Computer Vision:** ![PyTorch](https://shields.io) ![OpenCV](https://shields.io) ![YOLO](https://shields.io) ![Scikit-Learn](https://shields.io)
+* **Robotics & Tools:** ![ROS](https://shields.io) ![Linux](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io)
 
-### 🤖 Robotics & AI
+---
 
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+## 🚀 Key Projects
 
-### 📫 Contacts
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/modnyyj)
+* **[Hockey Goal Detection System]()** — Computer vision system developed during university practice module for automated goal events tracking using custom YOLO models.
+* **[PID & RL Control Studies]()** — Simulations and implementations of control systems combining classic PID-controllers and Q-learning.
 
 <!--
 **mromanenko095/mromanenko095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
