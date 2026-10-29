@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
+
+**Robotics & AI Student @ ITMO University**
+
+I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **ML/CV:** PyTorch, OpenCV, YOLO, Scikit-learn
+- **Tools:** Git, Docker, Linux, ROS
 
 <!--
 **mromanenko095/mromanenko095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
