@@ -12,6 +12,17 @@ I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
   <img src="https://shields.io" alt="SQL"/>
 </div>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode" />
+</p>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 
 ### 📫 Contacts
 
