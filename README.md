@@ -4,11 +4,16 @@
 
 I'm passionate about Computer Vision, Machine Learning, and Embedded Systems.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-* **Languages:** ![Python](https://shields.io) ![C](https://shields.io)
-* **AI & Computer Vision:** ![PyTorch](https://shields.io) ![OpenCV](https://shields.io) ![YOLO](https://shields.io) ![Scikit-Learn](https://shields.io)
-* **Robotics & Tools:** ![ROS](https://shields.io) ![Linux](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📫 Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/modnyyj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mromanenko095@gmail.com)
 
 ---
 
